@@ -1,5 +1,7 @@
-# 💫 About Me:
-Building scalable, high-performance web applications and exploring multi-tenancy solutions in Laravel.<br><br>👯 I’m looking to collaborate on:<br>Open-source Laravel projects and SaaS platform development.<br><br>🤝 I’m looking for help with:<br>Implementing advanced event-driven systems and optimizing multi-tenant architectures.<br><br>🌱 I’m currently learning:<br>Python, System Design, and advanced caching techniques in Laravel.<br><br>💬 Ask me about:<br>Laravel best practices, API integrations, PHP optimization tips, and setting up CI/CD workflows.<br><br>⚡ Fun fact:<br>I once debugged a major issue just minutes before deployment—and it felt like defusing a bomb!
+# 👋 Hi, I'm Rahul
+
+Developer | Laravel Enthusiast | Learner
+Crafting scalable systems, automating workflows, and exploring the intersection of Laravel + SaaS + DevOps
 
 <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=rahulrai1989&show_icons=true&count_private=true&cache=false"  alt="general" />
 
